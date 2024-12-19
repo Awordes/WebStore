@@ -1,4 +1,4 @@
-namespace WebStore.Domain;
+namespace WebStore.Domain.Entities;
 
 public class Product
 {
